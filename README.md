@@ -62,8 +62,3 @@ THEN I am automatically signed out of the site
 
 - Add a .env file to the root of the project
 
-```text
-DB_NAME='tech_blog_db'
-DB_USER='root'
-DB_PW='XXX'
-```
