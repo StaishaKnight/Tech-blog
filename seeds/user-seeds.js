@@ -2,46 +2,46 @@ const { User } = require('../models');
 
 const userData = [
     {
-        username: "Katie",
-        twitter: "Kitekat",
-        github: "katiekat",
-        email: "katiekat@gmail.com",
-        password: "password1"
+        username: "martin_bour",
+        twitter: "martinb",
+        github: "martinb",
+        email: "martin_b@gmail.com",
+        password: "p@ssword1"
     },
     {
-        username: "Rue",
-        twitter: "Rubyrue",
-        github: "Rubtruw",
-        email: "rubyrue@gmail.com",
-        password: "password2"
+        username: "matt_b",
+        twitter: "mathewb",
+        github: "mathewb",
+        email: "mathew_b@gmail.com",
+        password: "p@ssword2"
     },
     {
-        username: "Taylor",
-        twitter: "Taylormade",
-        github: "Taylormade",
-        email: "taylormade@gmail.com",
-        password: "password3"
+        username: "shaun_c",
+        twitter: "shaun",
+        github: "shaun",
+        email: "shaun_c@gmail.com",
+        password: "p@ssword3"
     },
     {
-        username: "Lady",
-        twitter: "ladybug",
-        github: "ladybug",
-        email: "ladybug@gmail.com",
-        password: "password4"
+        username: "lee_n",
+        twitter: "leenorris",
+        github: "leenorris",
+        email: "lee_n@gmail.com",
+        password: "p@ssword4"
     },
     {
-        username: "Levi",
-        twitter: "Levidadjeans",
-        github: "levidadjeans",
-        email: "levidadjeans@gmail.com",
-        password: "password5"
+        username: "priya_r",
+        twitter: "priyaravi23",
+        github: "priyaravi23",
+        email: "priya_r@gmail.com",
+        password: "p@ssword5"
     },
     {
-        username: "Susie",
-        twitter: "susiesushi",
-        github: "susisushi",
-        email: "susiesushi@gmail.com",
-        password: "password6"
+        username: "pooja",
+        twitter: "pooja_w",
+        github: "pooja",
+        email: "pooja@gmail.com",
+        password: "p@ssword6"
     }
 ]
 

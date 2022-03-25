@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/mvc-tech-blog.git"
+    "url": "https://github.com/StaishaKnight/Tech-blog.git"
   },
   "author": "Priya Ravi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/mvc-tech-blog/issues"
+    "url": "https://github.com/StaishaKnight/Tech-blog/issues"
   },
-  "homepage": "https://github.com/priyaravi23/mvc-tech-blog#readme",
+  "homepage": "https://github.com/StaishaKnight/Tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
