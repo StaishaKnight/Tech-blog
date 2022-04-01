@@ -2,46 +2,46 @@ const { User } = require('../models');
 
 const userData = [
     {
-        username: "martin_bour",
-        twitter: "martinb",
-        github: "martinb",
-        email: "martin_b@gmail.com",
-        password: "p@ssword1"
+        username: "scottie",
+        twitter: "scottie",
+        github: "scottie_2_hottie",
+        email: "scottie_2_hottie@gmail.com",
+        password: "password1"
     },
     {
-        username: "matt_b",
-        twitter: "mathewb",
-        github: "mathewb",
-        email: "mathew_b@gmail.com",
-        password: "p@ssword2"
+        username: "lady_bug",
+        twitter: "lady_bug",
+        github: "ady_bug",
+        email: "lady_bug@gmail.com",
+        password: "password22"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
-        password: "p@ssword3"
+        username: "slim_shady",
+        twitter: "slim_shady",
+        github: "slim_shady",
+        email: "sslim_shady@gmail.com",
+        password: "password333"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
-        password: "p@ssword4"
+        username: "bruce_lee",
+        twitter: "ruce_lee",
+        github: "lruce_lee",
+        email: "ruce_lee@gmail.com",
+        password: "password4444"
     },
     {
-        username: "priya_r",
-        twitter: "priyaravi23",
-        github: "priyaravi23",
-        email: "priya_r@gmail.com",
-        password: "p@ssword5"
+        username: "patsy_melt",
+        twitter: "patsy_melt",
+        github: "patsy_melt",
+        email: "patsy_melt@gmail.com",
+        password: "password55555"
     },
     {
-        username: "pooja",
-        twitter: "pooja_w",
-        github: "pooja",
-        email: "pooja@gmail.com",
-        password: "p@ssword6"
+        username: "katie_kat",
+        twitter: "katie_kat",
+        github: "katie_kat",
+        email: "katie_kat@gmail.com",
+        password: "password666666"
     }
 ]
 
