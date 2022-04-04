@@ -1,6 +1,6 @@
 const {format_date} = require('../utils/helpers');
 
-// creating test to that format_date() takes Date() objects and returns dates in MM/DD/YYYY
+// testing date string
 test('format_date() returns a date string', () => {
     const date = new Date('2020-03-20 16:12:03');
   
@@ -9,7 +9,7 @@ test('format_date() returns a date string', () => {
 
 const {format_plural} = require('../utils/helpers')
 
-// plural point and comments
+// test pluralized word
 test('format_plural() returns a pluralized word', () => {
       const plural = format_plural('tiger', 2);
       const single = format_plural('lion', 1);
@@ -20,7 +20,7 @@ test('format_plural() returns a pluralized word', () => {
 
 const {format_url} = require('../utils/helpers');
 
-// shortening URLS
+// testing urls 
 test('format_url() returns a simplified url string', () => {
     const url1 = format_url('http://test.com/page/1');
     const url2 = format_url('https://www.coolstuff.com/abcdefg/');
